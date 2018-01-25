@@ -1,0 +1,32 @@
+{
+  "name": "stars",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.19.1",
+    "moment-timezone": "^0.5.13",
+    "react": "^16.0.0",
+    "react-axios": "^1.0.3",
+    "react-bootstrap-validation": "^0.1.11",
+    "react-calendar-component": "^1.2.2",
+    "react-day-picker": "^6.2.1",
+    "react-dom": "^16.0.0",
+    "react-fontawesome": "^1.6.1",
+    "react-googlemaps": "^0.4.0",
+    "react-grid-gallery": "^0.4.6",
+    "react-html-table-to-excel": "^2.0.0",
+    "react-moment": "^0.6.5",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14",
+    "react-share": "^1.16.0",
+    "styled-components": "^2.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:8000/"
+}
